@@ -16,7 +16,7 @@ This repository consists of multiple beginner friendly game projects made with t
 * If Conditionals
 * For and while Loops
 * Modules in Python
-* Event Habdling with Pygame events
+* Event Handling with Pygame events
 
 [Source Code](https://github.com/prakriti42/Learning-Python-By-Building-Games-/tree/main/Tic-Tac-Toe)
 
