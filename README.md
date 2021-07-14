@@ -1,13 +1,13 @@
 # Learning Python By Building Games
 
-This repository consists of multiple beginner friendly game projects made with the use of various Python Modules.
+This repository consists of beginner friendly game projects made with the use of various Python Modules.
 
 # Included Projects 
 
 
 ### 1. Tic-Tac-Toe Classic 
 
-#### A simple and beginner friendly python GUI project built with the use of the pygame module.
+#### A simple and beginner friendly python GUI project built with the use of the <b>PYGAME</b>.
 
 ### Subjects Covered
 
